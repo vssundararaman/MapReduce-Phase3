@@ -264,4 +264,4 @@ These type declarations along with symbols (factory) are used to create symbolic
 
 ### Phase 3 changes
 
-We had to make modifications to support concurrency usage as requested by CSE687 phase 3 project requirements.
+CSE687 phase 3 project requirements.
